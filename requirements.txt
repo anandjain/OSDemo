@@ -3,7 +3,7 @@ dj-static==0.0.6
 Django==1.10.5
 gunicorn==19.6.0
 packaging==16.8
-pkg-resources==0.0.0
+pkg-resources
 pycodestyle==2.3.0
 pyparsing==2.1.10
 six==1.10.0
